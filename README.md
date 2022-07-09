@@ -1,9 +1,10 @@
 # Lister
 A console-based checking list for an event
+
 ![](https://catmanl.github.io/lister/ss1.png)
 
 Check the
-![website](https://catmanl.github.io/lister/index.html)
+[website](https://catmanl.github.io/lister/index.html)
 
 ## Compiling
 ```console
