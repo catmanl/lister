@@ -1,5 +1,5 @@
 # Lister
-A console-based checking list for an event
+A console-based checklist
 
 ![](https://catmanl.github.io/lister/ss1.png)
 
