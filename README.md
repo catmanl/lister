@@ -9,7 +9,7 @@ Check the
 ## Compiling
 ```console
 $ git clone https://github.com/catmanl/lister.git
-$ gcc lister.c -o lister
+$ go build -o lister lister.go
 ```
 
 ## A bit more about the lister-specific file format
